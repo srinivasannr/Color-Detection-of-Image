@@ -1,1 +1,1 @@
-# projects
+#Color Detection of Image
